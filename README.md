@@ -1,11 +1,10 @@
-# RANTAI Sentinel
-
-💾
+# RANTAI GreenStorage
 
 Decentralized Storage Optimizer for Sustainable Web3
 
 RANTAI GreenStorage adalah solusi penyimpanan terdesentralisasi yang dirancang untuk hemat energi, aman, dan efisien.
 Proyek ini mendukung komunitas RANTAI dengan menyediakan infrastruktur penyimpanan data yang ramah lingkungan.
+
 ---
 
 ## Core Features
